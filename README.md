@@ -1,18 +1,19 @@
 # Anti-Fall Airbag Vest
 
+
+## Project Overview
+
 Wearable safety device that detects falls using embedded algorithms and deploys an airbag in real time to reduce impact injuries.
 
 Developed as a Capstone Engineering Project for **Sapphire Sky Solutions** with Dr. Jimmy Wang.
 ![Capstone Resume Slide Edit_page-0002](https://github.com/user-attachments/assets/5d79c148-6998-4a67-94ec-ffd2c87d3e76)
 
----
 
-## Project Overview
+![Capstone Resume Slide Edit_page-0005](https://github.com/user-attachments/assets/e7a7d5c8-1c3c-4504-b2b5-22ac5f3a9157)
 
 This system detects fall events using onboard IMU data and triggers a CO₂ valve to deploy an airbag before ground impact.
 
 Key features:
-
 - Real-time fall detection using embedded algorithms
 - Wireless notification via Bluetooth
 - Pre-deployment warning system
@@ -21,20 +22,10 @@ Key features:
 
 ---
 
-## Demo
-
-## Demo Video
-
-[![Watch the Demo](https://github.com/user-attachments/assets/85b5abdd-9ca9-44bb-a522-e3d4c0775a9c)](https://drive.google.com/file/d/176ka4YX3g7VdFCOAG7YfthU7qUPhSOTZ/view)
-
----
-
-# Project Overview
+# Project Scope
 
 ![Capstone Resume Slide Edit_page-0003](https://github.com/user-attachments/assets/34956b57-b89b-4959-a20b-4c72510f3c10)
 ![Capstone Resume Slide Edit_page-0004](https://github.com/user-attachments/assets/e2e78218-c1c9-4a2b-806e-eba3e457c475)
-![Capstone Resume Slide Edit_page-0005](https://github.com/user-attachments/assets/e7a7d5c8-1c3c-4504-b2b5-22ac5f3a9157)
-
 
 
 The project focuses on the **embedded electronics module and fall-detection algorithm**, while the mechanical airbag vest and proprietary CO₂ puncture mechanism are external components.
@@ -99,6 +90,14 @@ The electronics module was designed for wearable use:
 - **Dimensions:** 8.4 × 7.2 × 3.1 cm  
 - **Weight:** 123 g  
 - Integrated **pre-deployment warning buzzer**
+
+---
+
+## Demo
+
+## Demo Video
+
+[![Watch the Demo](https://github.com/user-attachments/assets/85b5abdd-9ca9-44bb-a522-e3d4c0775a9c)](https://drive.google.com/file/d/176ka4YX3g7VdFCOAG7YfthU7qUPhSOTZ/view)
 
 ---
 
