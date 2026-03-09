@@ -23,8 +23,10 @@ Key features:
 
 ## Demo
 
+## Demo Video
 
-[Video Demo](https://drive.google.com/file/d/176ka4YX3g7VdFCOAG7YfthU7qUPhSOTZ/view?usp=sharing)
+[![Watch the Demo](https://github.com/user-attachments/assets/85b5abdd-9ca9-44bb-a522-e3d4c0775a9c)](https://drive.google.com/file/d/176ka4YX3g7VdFCOAG7YfthU7qUPhSOTZ/view)
+
 ---
 
 # Project Overview
