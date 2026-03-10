@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Wearable safety device that detects falls using embedded algorithms and deploys an airbag in real time to reduce impact injuries.
+A wearable safety device that detects falls using embedded algorithms and deploys an airbag in real time to reduce impact injuries.
 
 Developed as a Capstone Engineering Project for **Sapphire Sky Solutions** with Dr. Jimmy Wang.
 ![Capstone Resume Slide Edit_page-0002](https://github.com/user-attachments/assets/5d79c148-6998-4a67-94ec-ffd2c87d3e76)
@@ -19,6 +19,14 @@ Key features:
 - Pre-deployment warning system
 - Compact wearable electronics module
 - Configurable CO₂ valve actuation interface
+
+---
+
+# Board Design
+Designed using Altium Designer. Manufactured with JLCPCB. Assembled in-house.
+
+<img height="600" alt="board design for github" src="https://github.com/user-attachments/assets/2a2f3a5b-2c52-47e9-b0f0-2484dfd812c1" />
+<img height="600" alt="board design for github2" src="https://github.com/user-attachments/assets/b5be8066-93f5-44f1-b7cf-8b70c42c146a" />
 
 ---
 
@@ -108,6 +116,8 @@ The electronics module was designed for wearable use:
 ![IMG_6651](https://github.com/user-attachments/assets/220ed411-cff1-403e-b47d-73f7758fcc11)
 ![IMG_6583](https://github.com/user-attachments/assets/21611365-b7a6-4a5a-b4c1-626eb6e1a61d)
 ![IMG_6652](https://github.com/user-attachments/assets/29d47378-88a2-4c0e-b5db-352ead94196e)
+![IMG_7016](https://github.com/user-attachments/assets/81a562dd-8744-4d8d-b70e-d2ea509d6b24)
+
 *(More prototype photos coming soon)*
 
 ---
@@ -118,7 +128,3 @@ The electronics module was designed for wearable use:
 - Custom CO₂ actuation system
 - Improved fall detection dataset
 - Mobile application integration
-
----
-
-# Repository Structure
